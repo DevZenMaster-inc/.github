@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/Dev.svg" width="120" alt="DevZenMaster Logo">
+  <img src="assets/dev.svg" width="120" alt="DevZenMaster Logo">
 </p>
 
 <div align="center">
