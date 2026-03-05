@@ -4,7 +4,7 @@
   <div align="center">
     <a href="https://github.com/DevZenMaster-inc">
       <!-- Main title -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=80&lines=DevZenMaster.inc" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=80&lines=DevZenMaster.com" alt="Typing SVG">
       <br>
       <!-- Multi-line animation with cycling colors -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=500&repeat=true&color=FF00FF,00FF00,00FFFF&center=true&vCenter=true&width=900&height=80&lines=IT+%7C+AgriTech+%7C+Academy;Smart+Systems;Secure+Digital+Ecosystems" alt="Typing SVG">
